@@ -1,0 +1,22 @@
+[
+  {"type": "Book", "title": "The Rubaiyat", "author": "Omar Khayyam", "genre": "Classic Poetry", "pages": 120, "date_added": "2026-07-07 10:00:00", "pages_read": 0, "reading_logs": []},
+  {"type": "EBook", "title": "The Divan", "author": "Hafez Shirazi", "genre": "Classic Poetry", "pages": 450, "date_added": "2026-07-07 10:05:00", "pages_read": 0, "file_size": "6MB", "reading_logs": []},
+  {"type": "Book", "title": "The Masnavi", "author": "Rumi", "genre": "Classic Poetry", "pages": 800, "date_added": "2026-07-07 10:10:00", "pages_read": 0, "reading_logs": []},
+  {"type": "AudioBook", "title": "The Blind Owl", "author": "Sadegh Hedayat", "genre": "Fiction", "pages": 140, "date_added": "2026-07-07 10:15:00", "pages_read": 0, "duration": "3h 10m", "reading_logs": []},
+  {"type": "Book", "title": "My Uncle Napoleon", "author": "Iraj Pezeshkzad", "genre": "Fiction", "pages": 500, "date_added": "2026-07-07 10:20:00", "pages_read": 0, "reading_logs": []},
+  {"type": "Book", "title": "The Conference of the Birds", "author": "Attar of Nishapur", "genre": "Mysticism", "pages": 380, "date_added": "2026-07-07 10:25:00", "pages_read": 0, "reading_logs": []},
+  {"type": "Book", "title": "Shahnameh", "author": "Abolqasem Ferdowsi", "genre": "Epic", "pages": 992, "date_added": "2026-07-07 10:30:00", "pages_read": 0, "reading_logs": []},
+  {"type": "EBook", "title": "Savushun", "author": "Simin Daneshvar", "genre": "Fiction", "pages": 304, "date_added": "2026-07-07 10:35:00", "pages_read": 0, "file_size": "3MB", "reading_logs": []},
+  {"type": "Book", "title": "Kelidar (Volume 1)", "author": "Mahmoud Dowlatabadi", "genre": "Fiction", "pages": 500, "date_added": "2026-07-07 10:40:00", "pages_read": 0, "reading_logs": []},
+  {"type": "Book", "title": "Her Eyes", "author": "Bozorg Alavi", "genre": "Fiction", "pages": 285, "date_added": "2026-07-07 10:45:00", "pages_read": 0, "reading_logs": []},
+  {"type": "Book", "title": "Cinematic Portraits", "author": "Pete Wright", "genre": "Photography", "pages": 240, "date_added": "2026-07-07 10:50:00", "pages_read": 0, "reading_logs": []},
+  {"type": "EBook", "title": "The 85mm Lens Aesthetic", "author": "Peter Lindbergh", "genre": "Photography", "pages": 150, "date_added": "2026-07-07 10:55:00", "pages_read": 0, "file_size": "15MB", "reading_logs": []},
+  {"type": "Book", "title": "High-Contrast Editorial Lighting", "author": "Mario Testino", "genre": "Photography", "pages": 200, "date_added": "2026-07-07 11:00:00", "pages_read": 0, "reading_logs": []},
+  {"type": "Book", "title": "Introduction to Automata Theory", "author": "John E. Hopcroft", "genre": "Computer Science", "pages": 560, "date_added": "2026-07-07 11:05:00", "pages_read": 0, "reading_logs": []},
+  {"type": "EBook", "title": "Theory of Computer Science", "author": "K. L. P. Mishra", "genre": "Computer Science", "pages": 422, "date_added": "2026-07-07 11:10:00", "pages_read": 0, "file_size": "8MB", "reading_logs": []},
+  {"type": "Book", "title": "The Pull-Up Advantage", "author": "Al Kavadlo", "genre": "Fitness", "pages": 180, "date_added": "2026-07-07 11:15:00", "pages_read": 0, "reading_logs": []},
+  {"type": "AudioBook", "title": "Overcoming Gravity", "author": "Steven Low", "genre": "Fitness", "pages": 542, "date_added": "2026-07-07 11:20:00", "pages_read": 0, "duration": "14h 20m", "reading_logs": []},
+  {"type": "AudioBook", "title": "Atomic Habits", "author": "James Clear", "genre": "Self-help", "pages": 320, "date_added": "2026-07-07 11:25:00", "pages_read": 0, "duration": "5h 35m", "reading_logs": []},
+  {"type": "Book", "title": "Clean Code", "author": "Robert C. Martin", "genre": "Programming", "pages": 464, "date_added": "2026-07-07 11:30:00", "pages_read": 0, "reading_logs": []},
+  {"type": "AudioBook", "title": "1984", "author": "George Orwell", "genre": "Fiction", "pages": 328, "date_added": "2026-07-07 11:35:00", "pages_read": 0, "duration": "11h 22m", "reading_logs": []}
+]
